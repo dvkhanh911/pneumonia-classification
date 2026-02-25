@@ -8,7 +8,7 @@ This project proposes an automated computer-aided diagnosis (CAD) system for pne
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 This study focuses on the following key aspects:
 
@@ -21,7 +21,7 @@ This study focuses on the following key aspects:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The model is trained and evaluated on a combination of two public datasets:
 
@@ -32,7 +32,7 @@ These datasets contain labeled chest X-ray images for pneumonia and normal cases
 
 ---
 
-## 📈 Results
+## Results
 
 The proposed ensemble model achieved:
 
@@ -43,7 +43,7 @@ This demonstrates strong performance compared to many existing single-model appr
 ---
 
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── DataPreprocessing.ipynb
@@ -54,7 +54,7 @@ This demonstrates strong performance compared to many existing single-model appr
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install required dependencies  
 2. Run `DataPreprocessing.ipynb`  
