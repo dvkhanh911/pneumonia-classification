@@ -48,8 +48,8 @@ This demonstrates strong performance compared to many existing single-model appr
 ```
 ├── DataPreprocessing.ipynb
 ├── pneumonia-classification.ipynb
+├── requirement.txt
 ├── README.md
-├── .gitignore
 ```
 ---
 ## How to Run
