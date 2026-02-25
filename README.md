@@ -51,16 +51,9 @@ This demonstrates strong performance compared to many existing single-model appr
 ├── README.md
 ├── .gitignore
 ```
-
 ---
-
 ## How to Run
 
 1. Install required dependencies  
 2. Run `DataPreprocessing.ipynb`  
 3. Run `pneumonia-classification.ipynb` to train and evaluate models  
-
-
-## 📌 Conclusion
-
-This project demonstrates that combining deep transfer learning with a weighted ensemble strategy significantly enhances pneumonia classification performance. The integration of Grad-CAM further improves interpretability, making the system more reliable for medical applications.
